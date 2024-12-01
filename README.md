@@ -9,4 +9,4 @@
 - 💞️ **Collaboration Goals:** Open to projects focused on data storytelling, operational efficiency, and advanced analytics.  
 - 📫 **Reach Me At:** Dinakarkolla8@gmail.com  
 - 😄 **Pronouns:** He  
-- ⚡ **Fun Fact:** Once built a complete dashboard from scratch under intense pressure—it wowed everyone and became a reference point for future projects!  
+- ⚡ **Fun Fact:** Once built a complex sql query and a complete dashboard from scratch under intense pressure—it wowed everyone and became a reference point for future projects!  
