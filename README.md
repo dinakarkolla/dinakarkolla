@@ -1,5 +1,3 @@
-### dinakarkolla/README.md  
-
 - 👋 **About Me:** Hi, I’m @dinakarkolla, a data enthusiast passionate about transforming raw data into meaningful insights.  
 - 👀 **Interests:** I excel at uncovering trends, creating impactful visualizations, and streamlining complex processes.  
 - 🌱 **Skills:**  
