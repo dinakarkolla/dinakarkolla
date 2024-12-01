@@ -1,8 +1,14 @@
-👋 Hi, I’m @dinakarkolla
-👀 I’m a data enthusiast with a knack for uncovering insights, building impactful visualizations, and streamlining processes.
-🌱 I specialize in Power BI, Oracle PL/SQL, Unix Shell Scripting, and Python, continually expanding my skill set to tackle complex data challenges.
-💡 I love creating interactive dashboards, automating workflows, and crafting SQL queries that make data sing.
-💞️ I’m eager to collaborate on projects that involve data storytelling, process optimization, and advanced analytics.
-📫 You can connect with me at Dinakarkolla8@gmail.com
-😄 Pronouns: He
-⚡ Fun fact: I once created a fully functional dashboard from scratch in record time during a team crunch—it even got applause in the presentation!
+### dinakarkolla/README.md  
+
+- 👋 **About Me:** Hi, I’m @dinakarkolla, a data enthusiast passionate about transforming raw data into meaningful insights.  
+- 👀 **Interests:** I excel at uncovering trends, creating impactful visualizations, and streamlining complex processes.  
+- 🌱 **Skills:**  
+  - **Power BI:** Designing interactive and visually engaging dashboards.  
+  - **Oracle PL/SQL:** Writing efficient queries and managing robust databases.  
+  - **Unix Shell Scripting:** Automating and optimizing data workflows.  
+  - **Python:** Applying scripting to analyze and manipulate data effectively.  
+- 💡 **What I Love:** Crafting dashboards that tell compelling data stories, automating repetitive tasks, and solving intricate data problems.  
+- 💞️ **Collaboration Goals:** Open to projects focused on data storytelling, operational efficiency, and advanced analytics.  
+- 📫 **Reach Me At:** Dinakarkolla8@gmail.com  
+- 😄 **Pronouns:** He  
+- ⚡ **Fun Fact:** Once built a complete dashboard from scratch under intense pressure—it wowed everyone and became a reference point for future projects!  
